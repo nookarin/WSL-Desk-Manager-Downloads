@@ -3,7 +3,7 @@
 A Windows app that sets up WSL and opens a Linux distro's full desktop, or a terminal, in a few
 clicks. Every WSL command is a button, so you never need a command line.
 
-This repository hosts the installer downloads. The source code is private.
+This repository hosts the installer downloads.
 
 ## Download
 
